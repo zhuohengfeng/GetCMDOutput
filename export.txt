@@ -1,0 +1,24 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+识别图片：	1111.png
+
+文本内容：
+c管理员:CMD
+Microsoft Windows[版本6.1.7681
+c)2gg9 Microsof￡ t Corporation。保留所有权
+NUsers \Administrator\Desktop>wefrwefwefewfef
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+识别图片：	2222.png
+
+文本内容：
+Run: BaiduApi x g Main x e Main x
+D:\3_Tools\ Development\Anaconda3\python. exe D: /5_Python/GetCMDOutput/Bai duApi py
+压缩过大的图片
+图片识别
+正在识别图片
+别成功
+对分这本号出成
+面图片文本提取结束!文本输出结果位于 export.txt文件中
+
+
